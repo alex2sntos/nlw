@@ -19,4 +19,4 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - [Instagram](https://www.instagram.com/alexd.sntos/)
 - [Linkedin](https://www.linkedin.com/in/alexsntos/)
 
-- alexandre_santos39@yahoo.com
+- contato.alex2sntos@gmail.com
